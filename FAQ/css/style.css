@@ -43,3 +43,7 @@ body{
     font-size: 15px;
     color: #151b1f;
 }
+/*Add css for Jquery addClass() event*/
+.strongBold {
+  font-weight: bolder;
+}
