@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+  padding: 50px;
+}
+/*add attr, val to h2 tag and :hover*/
+#faq h2{
+  padding: 0 0 10px;
+  font-size: 27px;
+  color: #273238;
+  transition-duration:0.2s;
+}
+#faq h2:hover{
+  font-size: 29px;
+  color: #151b1f;
+}
