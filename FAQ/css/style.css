@@ -14,3 +14,32 @@ body{
   font-size: 29px;
   color: #151b1f;
 }
+/*Add css to the body content.*/
+#faq li{
+    font-weight: 700;
+    margin: 10px 0 0;
+    height: 25px;
+    line-height: 25px;
+}
+
+#faq li span{
+    display: inline-block;
+    width: 25px; height: 25px;
+    background: rgb(34, 206, 49);
+    margin: 0 9px 0 0;
+    font-size: 11px;
+    color: rgba(243, 243, 243, 0.932);
+    text-align: center;
+    line-height: 25px;
+    border-radius: 15px 15px 4px 15px;
+}
+
+#faq li a{
+    font-size: 14px;
+    color: #273238;
+    transition-duration:0.2s;
+}
+#faq li a:hover{
+    font-size: 15px;
+    color: #151b1f;
+}
