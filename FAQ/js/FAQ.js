@@ -1,10 +1,10 @@
 $(document).ready(function(){
 /*Add event a tag*/
-  $("a").mouseenter(function){
+  $("a").mouseenter(function(){
     $(this).addClass("strongBold")
   })
   
-  $("a").mouseleave(function){
+  $("a").mouseleave(function(){
     $(this).removeClass()
   })
   
